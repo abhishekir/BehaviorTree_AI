@@ -181,7 +181,6 @@ class Help extends Task {
   }
 }
 
-//based on Align from HW1
 class Align extends Task{
   Align(Blackboard bb){
     this.blackboard = bb; 
